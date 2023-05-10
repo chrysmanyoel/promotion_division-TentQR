@@ -1,0 +1,24 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/qr_tenda_promosi/node_modules
+/front-end_qr_tenda_promosi/node_modules
+/front-end_qr_tenda_promosi/.pnp
+.pnp.js
+
+# testing
+/front-end_qr_tenda_promosi/coverage
+
+# production
+/front-end_qr_tenda_promosi/build
+
+# misc
+/front-end_qr_tenda_promosi/.DS_Store
+/front-end_qr_tenda_promosi/.env.local
+/front-end_qr_tenda_promosi/.env.development.local
+/front-end_qr_tenda_promosi/.env.test.local
+/front-end_qr_tenda_promosi/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
