@@ -3,21 +3,21 @@
 # dependencies
 /qr_tenda_promosi/node_modules
 /front-end_qr_tenda_promosi/node_modules
-/front-end_qr_tenda_promosi/.pnp
+.pnp
 .pnp.js
 
 # testing
-/front-end_qr_tenda_promosi/coverage
+coverage
 
 # production
-/front-end_qr_tenda_promosi/build
+build
 
 # misc
-/front-end_qr_tenda_promosi/.DS_Store
-/front-end_qr_tenda_promosi/.env.local
-/front-end_qr_tenda_promosi/.env.development.local
-/front-end_qr_tenda_promosi/.env.test.local
-/front-end_qr_tenda_promosi/.env.production.local
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
 npm-debug.log*
 yarn-debug.log*
